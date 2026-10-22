@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0709-to-lower-case) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
