@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
