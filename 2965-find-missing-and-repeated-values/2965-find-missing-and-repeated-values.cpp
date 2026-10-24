@@ -2,12 +2,12 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         unordered_set<int> s;
-        long long n=grid.size();
-        long long actsum=0;
-        long long expsum=0;
-        long long a,b;
-        for(long long i=0;i<n;i++){
-            for(long long j=0;j<n;j++){
+        int n=grid.size();
+        int actsum=0;
+        int expsum=0;
+        int a,b;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
                 if(s.find(grid[i][j])!=s.end()){
                     a=grid[i][j];
 
@@ -16,8 +16,8 @@ public:
                 }
             }
         }
-        for(long long i=0;i<n;i++){
-            for(long long j=0;j<n;j++){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
                  actsum+=grid[i][j];
             }
         }
@@ -25,7 +25,7 @@ public:
             b=expsum+a-actsum;
 
         
-        return {(int)a,(int)b};
+        return {a,b};
         
     }
 };
