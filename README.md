@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0059-spiral-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -46,4 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
