@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -38,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0059-spiral-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
