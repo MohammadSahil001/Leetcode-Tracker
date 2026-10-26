@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0059-spiral-matrix-ii) |
+| [1688-count-of-matches-in-tournament](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
