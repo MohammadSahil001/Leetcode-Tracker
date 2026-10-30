@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
