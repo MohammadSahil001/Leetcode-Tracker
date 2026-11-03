@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
