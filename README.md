@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0005-longest-palindromic-substring) |
 | [0709-to-lower-case](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0112-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
