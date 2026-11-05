@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1920-build-array-from-permutation](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/2965-find-missing-and-repeated-values) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/0018-4sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohammadSahil001/Leetcode-Tracker/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
